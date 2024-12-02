@@ -62,3 +62,5 @@ int main()
     printVector(arr);
     return 0;
 }
+// problems:
+// Hackerrank: 002
