@@ -1,6 +1,12 @@
 /*
 Code by AlejandroSPosada
-grammar input:
+Code based on 4.5 and 4.6 of Aho et al., Compilers: Principles, Techniques, and Tools (2nd Edition). 
+1. Implement a function to compute CLOSURE(I) where I is set of items (see Section 4.6.2).
+2. Compute the canonical LR(0) collection (see Section 4.6.2). Notice that you may compute the LR(0) automaton.
+3. Compute the SLR-parsing table (Algorithm 4.46).
+4. Implement the LR-parsing algorithm (Algorithm 4.44).
+
+grammar input from terminal:
 1
 3
 S SaT T
