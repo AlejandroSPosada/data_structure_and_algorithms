@@ -1,5 +1,11 @@
 /* 
 Code by AlejandroSPosada
+Code based on Compilers: Principles, Techniques, and Tools (2nd Edition).
+1. Verify whether the grammar is LL(1).
+2. Implement a function to compute the First set of a string.
+3. Compute the parsing table (Algorithm 4.31).
+4. Implement the table-driven predictive parsing algorithm (Algorithm 4.34).
+
 input from terminal example:
 1
 5
