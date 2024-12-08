@@ -1,6 +1,6 @@
 /* 
 Code by AlejandroSPosada
-Code based on Compilers: Principles, Techniques, and Tools (2nd Edition).
+Code based on Compilers: 4.4.3 and 4.4.4 of Aho et al., Compilers: Principles, Techniques, and Tools (2nd Edition).
 1. Verify whether the grammar is LL(1).
 2. Implement a function to compute the First set of a string.
 3. Compute the parsing table (Algorithm 4.31).
