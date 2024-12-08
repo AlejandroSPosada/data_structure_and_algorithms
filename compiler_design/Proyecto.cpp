@@ -1,3 +1,5 @@
+// Code to get the first and follow set
+// Code by AlejandroSPosada
 #include <bits/stdc++.h>
 #define aFR() algorithmFirstRecursive(productionsMap, mapFirst, recolectorNT)
 using namespace std;
