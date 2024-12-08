@@ -1,0 +1,88 @@
+5
+S TZ
+Z aTZ e
+T FX 
+X bFX e
+F cSd f
+///
+fi S c,f
+fi Z a,e
+fi T c,f
+fi X b,e
+fi F c,f
+///
+fo S d,$
+fo Z d,$
+fo T a,d,$
+fo X a,d,$
+fo F b,a,d,$
+------------------
+6
+S aBDh
+B cC
+C bC e
+D EF
+E g e
+F f e
+/////
+B -> c
+C -> b, e
+D -> e, f, g
+E -> e, g
+F -> e, f
+S -> a
+///
+B -> f, g, h
+C -> f, g, h
+D -> h
+E -> f, h
+F -> h
+S -> $
+-------------------
+5
+S A
+A aBZ
+Z dZ e
+B b
+C g
+///
+A -> a
+B -> b
+C -> g
+S -> a
+Z -> d, e
+///
+A -> $
+B -> $, d
+C -> 
+S -> $
+Z -> $
+--------------------------
+3
+S AaAb BbBa
+A e
+B e
+///
+A -> e
+B -> e
+S -> a, b, e
+///
+A -> a, b
+B -> a, b
+S -> $
+---------------------------
+4
+S ACB CbB Ba
+A da BC
+B g e
+C h e
+First Functions-
+First(S) = = { d , g , h , ∈ , b , a }
+First(A) = { d , g , h , ∈ }
+First(B) = { g , ∈ }
+First(C) = { h , ∈ }
+Follow Functions-
+Follow(S) = { $ }
+Follow(A) = { h , g , $ }
+Follow(B) = { $ , a , h , g }
+Follow(C) = { g , $ , b , h }
