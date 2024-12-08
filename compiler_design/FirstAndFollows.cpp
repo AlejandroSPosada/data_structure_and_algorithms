@@ -1,5 +1,9 @@
-// Code to get the first and follow set
-// Code by AlejandroSPosada
+/* Code by AlejandroSPosada
+Code to get the first and follow set
+Keep in mind that S is gonna to be always the start symbol.
+Upper letters ara non-terminals. Non-upper are terminals.
+Input format example:
+*/ 
 #include <bits/stdc++.h>
 #define aFR() algorithmFirstRecursive(productionsMap, mapFirst, recolectorNT)
 using namespace std;
