@@ -97,10 +97,10 @@ struct SAIS {
         if (name == N1) for (int i=0; i<N1; i++) SA1[S1[i]] = i;
         // else, apply recursion
         else SA1 = SAIS(S1, name).SA;
-        N1 = 0;
 
         // S1 is gonna comply the fuction of P1 (see definition 2.4)
         // i.e., is saving the index where each LMS is
+        N1 = 0;
         for (int i=0; i<N; i++) if (is_lms(i)) S1[N1++] = i;
 
         // in right, SA1[x] = z, x is the absolute order (suffix array) of the character z in S1
