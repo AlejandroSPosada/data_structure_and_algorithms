@@ -103,10 +103,9 @@ struct SAIS {
         N1 = 0;
         for (int i=0; i<N; i++) if (is_lms(i)) S1[N1++] = i;
 
-        // in right, SA1[x] = z, x is the absolute order (suffix array) of the character z in S1
-        // and S1[z] = y, y is the the exact index where z starts in S
-        // so, in left, SA1[x] = y, is gonna tell us absolute order suffix x in S1
-        // starts with index y in S
+        // in right, SA1[x] = z, x is the absolute order of the name z in S1, example: SA1[0] = 5 
+        // and S1[z] = y, y is the the exact index where z starts in S, example: S1[5] = 13
+        // so, in left, SA1[x] = y, is gonna tell us absolute order suffix x in S1 starts with index y in S
         for (int i=0; i<N1; i++) SA1[i] = S1[SA1[i]];
 
         fill(SA.begin(), SA.end(), -1);
