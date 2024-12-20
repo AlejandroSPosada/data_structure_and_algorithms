@@ -44,3 +44,9 @@ int main() {
     }
     return 0;
 }
+
+/*
+PROBLEMS:
+CODEFORCES:
+    1) Random Mood (also: Markov Chains)
+*/
