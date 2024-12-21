@@ -1,6 +1,8 @@
-// code from geeksforgeeks
-// C++ program for implementation of Aho Corasick algorithm 
-// for string matching 
+/* code from geeksforgeeks
+Problems:
+  Hackerrank 
+    1) 002. Determining DNA Health.
+*/ 
 using namespace std; 
 #include <bits/stdc++.h> 
   
@@ -194,7 +196,3 @@ int main()
   
     return 0; 
 } 
-// Problems:
-//   Hackerrank: 002
-// 
-// 
