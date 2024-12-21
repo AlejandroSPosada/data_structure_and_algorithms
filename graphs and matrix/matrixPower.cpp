@@ -1,3 +1,10 @@
+/*PROBLEMS:
+CODEFORCES:
+    1) Random Mood (also: Markov Chains)
+HACKERRANK:
+    1) 005. Counting Strings (also: Thompson's construction, power set construction)*/
+
+
 #include <iostream>
 #include <vector>
 #include <iomanip> 
@@ -44,11 +51,3 @@ int main() {
     }
     return 0;
 }
-
-/*
-PROBLEMS:
-CODEFORCES:
-    1) Random Mood (also: Markov Chains)
-HACKERRANK:
-    1) Counting Strings (also: Thompson's construction, power set construction)
-*/
