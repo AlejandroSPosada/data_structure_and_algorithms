@@ -1,5 +1,9 @@
 /*Code by AlejandroSPosada
-NFA to DFA with alphabet a and b*/
+NFA to DFA with alphabet a and b
+
+-- PROBLEMS
+HACKERRANK:
+	1) 006. Counting Strings (also: Thompson's construction, matrix power)*/
 
 #include<stdio.h>
 #include<vector>
@@ -104,7 +108,3 @@ int main(){
 	}
  	return 0 ;
 }
-
-/*PROBLEMS
-HACKERRANK:
-	1) 006. Counting Strings (also: Thompson's construction, matrix power)*/
