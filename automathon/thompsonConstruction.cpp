@@ -58,3 +58,7 @@ int main(){
 	P nfa = construct(regex,0,strlen(regex) - 1);
  	return 0 ;
 }
+
+/*PROBLEMS
+HACKERRANK:
+	1) 006. Counting Strings (also: Thompson's construction, matrix power)*/
