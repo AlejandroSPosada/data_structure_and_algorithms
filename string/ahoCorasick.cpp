@@ -1,7 +1,7 @@
 /* code from geeksforgeeks
 Problems:
   Hackerrank 
-    1) 002. Determining DNA Health.
+    1) 002. Determining DNA Health (also: Fewhick tree).
 */ 
 using namespace std; 
 #include <bits/stdc++.h> 
