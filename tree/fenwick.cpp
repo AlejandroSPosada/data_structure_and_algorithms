@@ -1,5 +1,9 @@
-// From geeksforgeeks
-// C++ code to demonstrate operations of Binary Index Tree 
+/* From geeksforgeeks
+ C++ code to demonstrate operations of Binary Index Tree 
+-- PROBLEMS
+HACKERRANK
+	1) 002. Determinin DNA Health (also: Aho-Corasick algorithm)
+*/
 #include <iostream> 
 
 using namespace std; 
