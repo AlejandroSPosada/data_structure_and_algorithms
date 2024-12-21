@@ -5,7 +5,7 @@ Only two elements, where * is considered as one
 
 -- PROBLEMS
 HACKERRANK:
-	1) 006. Counting Strings (also: power set construction, matrix power)*/
+	1) 005. Counting Strings (also: power set construction, matrix power)*/
 
 #include<stdio.h>
 #include<vector>
