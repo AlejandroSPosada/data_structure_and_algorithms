@@ -1,7 +1,11 @@
 /*Code by AlejandroSPosada
 Input format:
 ((((ab)|a)*)|(((aa)|(bb))*)) 
-Only two elements, where * is considered as one*/
+Only two elements, where * is considered as one
+
+-- PROBLEMS
+HACKERRANK:
+	1) 006. Counting Strings (also: power set construction, matrix power)*/
 
 #include<stdio.h>
 #include<vector>
@@ -58,7 +62,3 @@ int main(){
 	P nfa = construct(regex,0,strlen(regex) - 1);
  	return 0 ;
 }
-
-/*PROBLEMS
-HACKERRANK:
-	1) 006. Counting Strings (also: power set construction, matrix power)*/
