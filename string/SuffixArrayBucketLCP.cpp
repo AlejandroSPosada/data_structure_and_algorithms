@@ -1,5 +1,5 @@
 // By AlejandroSPosada
-// Suffix array and LCP. 
+// Code about: Suffix Array and LCP. 
 // SA construction in O(L log^2 L) time.
 // PROBLEMS: the same ones as SAIS 
 
