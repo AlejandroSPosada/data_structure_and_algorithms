@@ -1,5 +1,5 @@
 // By AlejandroSPosada
-// Code about: Array suffix.
+// Code about: Suffix Array.
 //   PROBLEMS
 //     HACKERRANK
 //       1) 004. Morgan and a String
