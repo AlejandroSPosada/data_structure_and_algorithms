@@ -1,4 +1,5 @@
 /* By AlejandroSPosada
+Code for array suffix.
 -- PROBLEMS
 HACKERRANK
     1) 004. Morgan and a String*/
