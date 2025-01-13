@@ -1,8 +1,8 @@
-/* By AlejandroSPosada
-Code for array suffix.
--- PROBLEMS
-HACKERRANK
-    1) 004. Morgan and a String*/
+// By AlejandroSPosada
+// Code about: Array suffix.
+// -- PROBLEMS
+// HACKERRANK
+//    1) 004. Morgan and a String
 #include<cstdio>
 #include<iostream>
 #include<vector>
