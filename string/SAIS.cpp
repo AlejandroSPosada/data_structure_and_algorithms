@@ -3,6 +3,8 @@
 //   PROBLEMS
 //     HACKERRANK
 //       1) 004. Morgan and a String
+//       2) 006. String Function Calculation
+//
 
 #include<cstdio>
 #include<iostream>
