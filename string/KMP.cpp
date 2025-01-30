@@ -3,7 +3,7 @@
 // KMP Algorithm
 //     PROBLEMS
 //        LeetCode:
-//         1) 032. 212. Word Search II
+//         1) 033. 214. Shortest Palindrome
 
 #include <iostream>
 #include <string>
